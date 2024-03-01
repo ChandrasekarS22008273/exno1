@@ -1,6 +1,7 @@
 # Exno:1
 Data Cleaning Process
 
+
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
 
@@ -22,6 +23,10 @@ STEP 6: Use zscore of to remove
 outliers
 
 # Coding and Output
+```
+Developed by: Chandrasekar S
+Reg No: 212222230025
+```
 ```
 import pandas as pd
 df = pd.read_csv("SAMPLEIDS.csv")
